@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onifade-joshua/react-forms.git/static/css/main.a1653624.css",
+    "main.js": "/onifade-joshua/react-forms.git/static/js/main.fa3cb457.js",
+    "index.html": "/onifade-joshua/react-forms.git/index.html",
+    "main.a1653624.css.map": "/onifade-joshua/react-forms.git/static/css/main.a1653624.css.map",
+    "main.fa3cb457.js.map": "/onifade-joshua/react-forms.git/static/js/main.fa3cb457.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1653624.css",
+    "static/js/main.fa3cb457.js"
+  ]
+}
